@@ -271,20 +271,6 @@
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/organisers/freakygreenfish/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.kulturhofkeller.at/en/organisers/freakygreenfish/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.kulturhofkeller.at/organisers/freakygreenfish/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.kulturhofkeller.at/organisers/gebrueder-moped/</loc>
     <xhtml:link
                 rel="alternate"
