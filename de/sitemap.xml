@@ -173,6 +173,16 @@
   </url>
   
   <url>
+    <loc>http://www.kulturhofkeller.at/events/2019-11_unikum/</loc>
+    <lastmod>2019-11-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/tags/lesung/</loc>
+    <lastmod>2019-11-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.kulturhofkeller.at/events/2019-11_tiger-lillies2/</loc>
     <lastmod>2019-11-16T00:00:00+01:00</lastmod>
   </url>
@@ -449,6 +459,20 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://www.kulturhofkeller.at/organisers/sona-booking/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/organisers/unikum/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/organisers/unikum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/organisers/unikum/"
                 />
   </url>
   
