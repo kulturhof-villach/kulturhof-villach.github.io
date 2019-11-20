@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/events/</loc>
-    <lastmod>2019-09-27T00:00:00-04:00</lastmod>
+    <lastmod>2019-09-27T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/tags/konzert/</loc>
-    <lastmod>2019-09-27T00:00:00-04:00</lastmod>
+    <lastmod>2019-09-27T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -34,7 +34,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/tags/open-mic/</loc>
-    <lastmod>2019-09-27T00:00:00-04:00</lastmod>
+    <lastmod>2019-09-27T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -49,7 +49,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/events/2019-09_rapimkeller/</loc>
-    <lastmod>2019-09-27T00:00:00-04:00</lastmod>
+    <lastmod>2019-09-27T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/tags/</loc>
-    <lastmod>2019-09-27T00:00:00-04:00</lastmod>
+    <lastmod>2019-09-27T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -79,7 +79,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/events/2019-09_himmels/</loc>
-    <lastmod>2019-09-26T00:00:00-04:00</lastmod>
+    <lastmod>2019-09-26T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -94,7 +94,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/tags/theater/</loc>
-    <lastmod>2019-09-26T00:00:00-04:00</lastmod>
+    <lastmod>2019-09-26T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -109,7 +109,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/events/2019-09_raucher2/</loc>
-    <lastmod>2019-09-21T00:00:00-04:00</lastmod>
+    <lastmod>2019-09-21T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -124,7 +124,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/events/2019-09_raucher/</loc>
-    <lastmod>2019-09-20T00:00:00-04:00</lastmod>
+    <lastmod>2019-09-20T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -139,7 +139,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/events/2019-09_austrian-apparel/</loc>
-    <lastmod>2019-09-14T00:00:00-04:00</lastmod>
+    <lastmod>2019-09-14T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -154,7 +154,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/tags/clubbing/</loc>
-    <lastmod>2019-09-14T00:00:00-04:00</lastmod>
+    <lastmod>2019-09-14T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -183,6 +183,20 @@
   </url>
   
   <url>
+    <loc>http://www.kulturhofkeller.at/en/organisers/acme/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/organisers/acme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/organisers/acme/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.kulturhofkeller.at/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -193,6 +207,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.kulturhofkeller.at/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/en/organisers/damensalon/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/organisers/damensalon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/organisers/damensalon/"
                 />
   </url>
   

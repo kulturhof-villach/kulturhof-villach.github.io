@@ -6,7 +6,7 @@
     <description>Recent content in Tags on kulturhof:keller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://www.kulturhofkeller.at/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,45 +14,54 @@
     <item>
       <title>clubbing</title>
       <link>http://www.kulturhofkeller.at/tags/clubbing/</link>
-      <pubDate>Sat, 29 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0100</pubDate>
       
       <guid>http://www.kulturhofkeller.at/tags/clubbing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>konzert</title>
+      <title>Konzert</title>
       <link>http://www.kulturhofkeller.at/tags/konzert/</link>
-      <pubDate>Sat, 29 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0100</pubDate>
       
       <guid>http://www.kulturhofkeller.at/tags/konzert/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>theater</title>
+      <link>http://www.kulturhofkeller.at/tags/theater/</link>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.kulturhofkeller.at/tags/theater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>open-mic</title>
       <link>http://www.kulturhofkeller.at/tags/open-mic/</link>
-      <pubDate>Fri, 29 Nov 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0100</pubDate>
       
       <guid>http://www.kulturhofkeller.at/tags/open-mic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kabarett</title>
-      <link>http://www.kulturhofkeller.at/tags/kabarett/</link>
-      <pubDate>Fri, 22 Nov 2019 00:00:00 -0500</pubDate>
+      <title>workshop</title>
+      <link>http://www.kulturhofkeller.at/tags/workshop/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0100</pubDate>
       
-      <guid>http://www.kulturhofkeller.at/tags/kabarett/</guid>
+      <guid>http://www.kulturhofkeller.at/tags/workshop/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>theater</title>
-      <link>http://www.kulturhofkeller.at/tags/theater/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 -0400</pubDate>
+      <title>Kabarett</title>
+      <link>http://www.kulturhofkeller.at/tags/kabarett/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0100</pubDate>
       
-      <guid>http://www.kulturhofkeller.at/tags/theater/</guid>
+      <guid>http://www.kulturhofkeller.at/tags/kabarett/</guid>
       <description></description>
     </item>
     
