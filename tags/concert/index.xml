@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concert on kulturhof:keller</title>
+    <link>http://www.kulturhofkeller.at/tags/concert/</link>
+    <description>Recent content in concert on kulturhof:keller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-at</language>
+    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.kulturhofkeller.at/tags/concert/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Josh &amp; Band</title>
+      <link>http://www.kulturhofkeller.at/events/2020-03_josh/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.kulturhofkeller.at/events/2020-03_josh/</guid>
+      <description>Nach dem österr. Sommerhit der Superlative „Cordula Grün“, der auch in Deutschland große Erfolge gefeiert hat, und einen „Amadeus Austrian Music Award 2019“ für den Song des Jahres, erschien Ende April das erste Album von Josh. Knapp vor dem Album-Release durften sich die Fans über die neue Single „Vielleicht“ freuen. Wie schon „Cordula Grün“ besticht der Song durch einen eingängigen Refrain und die Freude am Spiel mit Sprache und Wörtern. Auch das dazugehörige Video sorgte wieder für Furore.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.kulturhofkeller.at/tags/concert/</loc>
+    <lastmod>2020-03-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/</loc>
+    <lastmod>2020-03-21T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/events/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-03_josh/</loc>
+    <lastmod>2020-03-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/tags/</loc>
+    <lastmod>2020-03-21T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.kulturhofkeller.at/tags/clubbing/</loc>
     <lastmod>2020-02-29T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -14,21 +54,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://www.kulturhofkeller.at/tags/clubbing/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.kulturhofkeller.at/events/</loc>
-    <lastmod>2020-02-29T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.kulturhofkeller.at/en/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.kulturhofkeller.at/events/"
                 />
   </url>
   
@@ -50,21 +75,6 @@
   <url>
     <loc>http://www.kulturhofkeller.at/events/2020-02_kreiml-samurai/</loc>
     <lastmod>2020-02-29T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.kulturhofkeller.at/tags/</loc>
-    <lastmod>2020-02-29T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.kulturhofkeller.at/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.kulturhofkeller.at/tags/"
-                />
   </url>
   
   <url>
@@ -108,32 +118,32 @@
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-12_echoes-from-carinthia/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-12_echoes-from-carinthia/</loc>
     <lastmod>2019-12-21T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-12_asperitas/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-12_asperitas/</loc>
     <lastmod>2019-12-14T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-12_damensalon/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-12_damensalon/</loc>
     <lastmod>2019-12-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-12_honigdachs/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-12_honigdachs/</loc>
     <lastmod>2019-12-07T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-12_ayler-xmas/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-12_ayler-xmas/</loc>
     <lastmod>2019-12-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-12_eastern-boundary/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-12_eastern-boundary/</loc>
     <lastmod>2019-12-04T00:00:00+01:00</lastmod>
   </url>
   
@@ -153,7 +163,7 @@
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-11_rapimkeller/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-11_rapimkeller/</loc>
     <lastmod>2019-11-29T00:00:00+01:00</lastmod>
   </url>
   
@@ -163,12 +173,12 @@
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-11_tapethe1/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-11_tapethe1/</loc>
     <lastmod>2019-11-26T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-11_bvisible/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-11_bvisible/</loc>
     <lastmod>2019-11-23T00:00:00+01:00</lastmod>
   </url>
   
@@ -178,12 +188,12 @@
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-11_kabarettkoalition/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-11_kabarettkoalition/</loc>
     <lastmod>2019-11-22T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-11_unikum/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-11_unikum/</loc>
     <lastmod>2019-11-21T00:00:00+01:00</lastmod>
   </url>
   
@@ -193,127 +203,127 @@
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-11_tiger-lillies2/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-11_tiger-lillies2/</loc>
     <lastmod>2019-11-16T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-11_swell-harnik/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-11_swell-harnik/</loc>
     <lastmod>2019-11-15T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-11_tiger-lillies/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-11_tiger-lillies/</loc>
     <lastmod>2019-11-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-11_ohrenporno/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-11_ohrenporno/</loc>
     <lastmod>2019-11-09T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-10_anunnaki/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-10_anunnaki/</loc>
     <lastmod>2019-10-31T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-10_sona/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-10_sona/</loc>
     <lastmod>2019-10-19T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-10_man-of-isle/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-10_man-of-isle/</loc>
     <lastmod>2019-10-18T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-10_kabarettkoalition/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-10_kabarettkoalition/</loc>
     <lastmod>2019-10-11T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-10_felix-kramer/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-10_felix-kramer/</loc>
     <lastmod>2019-10-04T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-10_encounter/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-10_encounter/</loc>
     <lastmod>2019-10-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-09_rapimkeller/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-09_rapimkeller/</loc>
     <lastmod>2019-09-27T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.kulturhofkeller.at/en/events/2020/2019-09_rapimkeller/"
+                href="http://www.kulturhofkeller.at/en/events/2019/2019-09_rapimkeller/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.kulturhofkeller.at/events/2020/2019-09_rapimkeller/"
+                href="http://www.kulturhofkeller.at/events/2019/2019-09_rapimkeller/"
                 />
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-09_himmels/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-09_himmels/</loc>
     <lastmod>2019-09-26T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.kulturhofkeller.at/en/events/2020/2019-09_himmels/"
+                href="http://www.kulturhofkeller.at/en/events/2019/2019-09_himmels/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.kulturhofkeller.at/events/2020/2019-09_himmels/"
+                href="http://www.kulturhofkeller.at/events/2019/2019-09_himmels/"
                 />
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-09_raucher2/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-09_raucher2/</loc>
     <lastmod>2019-09-21T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.kulturhofkeller.at/en/events/2020/2019-09_raucher2/"
+                href="http://www.kulturhofkeller.at/en/events/2019/2019-09_raucher2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.kulturhofkeller.at/events/2020/2019-09_raucher2/"
+                href="http://www.kulturhofkeller.at/events/2019/2019-09_raucher2/"
                 />
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-09_raucher/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-09_raucher/</loc>
     <lastmod>2019-09-20T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.kulturhofkeller.at/en/events/2020/2019-09_raucher/"
+                href="http://www.kulturhofkeller.at/en/events/2019/2019-09_raucher/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.kulturhofkeller.at/events/2020/2019-09_raucher/"
+                href="http://www.kulturhofkeller.at/events/2019/2019-09_raucher/"
                 />
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020/2019-09_austrian-apparel/</loc>
+    <loc>http://www.kulturhofkeller.at/events/2019/2019-09_austrian-apparel/</loc>
     <lastmod>2019-09-14T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.kulturhofkeller.at/en/events/2020/2019-09_austrian-apparel/"
+                href="http://www.kulturhofkeller.at/en/events/2019/2019-09_austrian-apparel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.kulturhofkeller.at/events/2020/2019-09_austrian-apparel/"
+                href="http://www.kulturhofkeller.at/events/2019/2019-09_austrian-apparel/"
                 />
   </url>
   
@@ -399,6 +409,20 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://www.kulturhofkeller.at/organisers/gebrueder-moped/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/organisers/gemma/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/organisers/gemma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/organisers/gemma/"
                 />
   </url>
   
