@@ -4,12 +4,12 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/tags/concert/</loc>
-    <lastmod>2020-03-21T00:00:00+01:00</lastmod>
+    <lastmod>2020-04-09T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.kulturhofkeller.at/events/</loc>
-    <lastmod>2020-03-21T00:00:00+01:00</lastmod>
+    <lastmod>2020-04-09T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,13 +23,13 @@
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020-03_josh/</loc>
-    <lastmod>2020-03-21T00:00:00+01:00</lastmod>
+    <loc>http://www.kulturhofkeller.at/events/2020-04_sigridhorn/</loc>
+    <lastmod>2020-04-09T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.kulturhofkeller.at/tags/</loc>
-    <lastmod>2020-03-21T00:00:00+01:00</lastmod>
+    <lastmod>2020-04-09T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,6 +40,16 @@
                 hreflang="de"
                 href="http://www.kulturhofkeller.at/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-03_josh/</loc>
+    <lastmod>2020-03-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-03_aliciaedelweiss/</loc>
+    <lastmod>2020-03-07T00:00:00+01:00</lastmod>
   </url>
   
   <url>
