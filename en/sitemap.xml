@@ -267,6 +267,20 @@
   </url>
   
   <url>
+    <loc>http://www.kulturhofkeller.at/en/organisers/honkytonk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/organisers/honkytonk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/organisers/honkytonk/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.kulturhofkeller.at/en/organisers/kulturforum-villach/</loc>
     <xhtml:link
                 rel="alternate"
