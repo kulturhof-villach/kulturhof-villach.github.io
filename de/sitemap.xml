@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.kulturhofkeller.at/tags/concert/</loc>
-    <lastmod>2020-04-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.kulturhofkeller.at/events/</loc>
-    <lastmod>2020-04-09T00:00:00+02:00</lastmod>
+    <lastmod>2020-06-22T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,13 +18,13 @@
   </url>
   
   <url>
-    <loc>http://www.kulturhofkeller.at/events/2020-04_sigridhorn/</loc>
-    <lastmod>2020-04-09T00:00:00+02:00</lastmod>
+    <loc>http://www.kulturhofkeller.at/events/2020-06_kopf-aus-koerper-an3/</loc>
+    <lastmod>2020-06-22T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.kulturhofkeller.at/tags/</loc>
-    <lastmod>2020-04-09T00:00:00+02:00</lastmod>
+    <lastmod>2020-06-22T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,13 +38,88 @@
   </url>
   
   <url>
+    <loc>http://www.kulturhofkeller.at/tags/workshop/</loc>
+    <lastmod>2020-06-22T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/tags/workshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/tags/workshop/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-06_kopf-aus-koerper-an2/</loc>
+    <lastmod>2020-06-15T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-06_kopf-aus-koerper-an/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-05_kopf-aus-koerper-an3/</loc>
+    <lastmod>2020-05-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-05_kopf-aus-koerper-an2/</loc>
+    <lastmod>2020-05-18T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-05_kopf-aus-koerper-an/</loc>
+    <lastmod>2020-05-11T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-04_kopf-aus-koerper-an2/</loc>
+    <lastmod>2020-04-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-04_kopf-aus-koerper-an/</loc>
+    <lastmod>2020-04-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/tags/concert/</loc>
+    <lastmod>2020-04-09T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-04_sigridhorn/</loc>
+    <lastmod>2020-04-09T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.kulturhofkeller.at/events/2020-04_honkytonk/</loc>
     <lastmod>2020-04-04T00:00:00+02:00</lastmod>
   </url>
   
   <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-03_kopf-aus-koerper-an2/</loc>
+    <lastmod>2020-03-23T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-03_kopf-aus-koerper-an3/</loc>
+    <lastmod>2020-03-23T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.kulturhofkeller.at/events/2020-03_josh/</loc>
     <lastmod>2020-03-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-03_kopf-aus-koerper-an/</loc>
+    <lastmod>2020-03-16T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -115,6 +185,21 @@
   <url>
     <loc>http://www.kulturhofkeller.at/events/2020-02_kreiml-samurai/</loc>
     <lastmod>2020-02-29T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/events/2020-02_zwueld/</loc>
+    <lastmod>2020-02-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/events/2020-02_zwueld/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/events/2020-02_zwueld/"
+                />
   </url>
   
   <url>
@@ -215,11 +300,6 @@
   <url>
     <loc>http://www.kulturhofkeller.at/events/2019/2019-11_rapimkeller/</loc>
     <lastmod>2019-11-29T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.kulturhofkeller.at/tags/workshop/</loc>
-    <lastmod>2019-11-26T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -421,6 +501,20 @@
   </url>
   
   <url>
+    <loc>http://www.kulturhofkeller.at/organisers/zukringl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/organisers/zukringl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/organisers/zukringl/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.kulturhofkeller.at/organisers/damensalon/</loc>
     <xhtml:link
                 rel="alternate"
@@ -487,6 +581,20 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://www.kulturhofkeller.at/organisers/honkytonk/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/organisers/ju-villach/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/organisers/ju-villach/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/organisers/ju-villach/"
                 />
   </url>
   

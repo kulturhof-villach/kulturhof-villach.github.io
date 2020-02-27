@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/events/</loc>
-    <lastmod>2019-09-27T00:00:00+02:00</lastmod>
+    <lastmod>2020-02-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>http://www.kulturhofkeller.at/en/tags/konzert/</loc>
-    <lastmod>2019-09-27T00:00:00+02:00</lastmod>
+    <lastmod>2020-02-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -29,6 +29,51 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.kulturhofkeller.at/en/tags/konzert/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/en/tags/</loc>
+    <lastmod>2020-02-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/en/tags/workshop/</loc>
+    <lastmod>2020-02-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/tags/workshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/tags/workshop/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/en/events/2020-02_zwueld/</loc>
+    <lastmod>2020-02-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/events/2020-02_zwueld/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/events/2020-02_zwueld/"
                 />
   </url>
   
@@ -59,21 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.kulturhofkeller.at/en/events/2019/2019-09_rapimkeller/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.kulturhofkeller.at/en/tags/</loc>
-    <lastmod>2019-09-27T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.kulturhofkeller.at/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.kulturhofkeller.at/en/tags/"
                 />
   </url>
   
@@ -211,6 +241,20 @@
   </url>
   
   <url>
+    <loc>http://www.kulturhofkeller.at/en/organisers/zukringl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/organisers/zukringl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/organisers/zukringl/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.kulturhofkeller.at/en/organisers/damensalon/</loc>
     <xhtml:link
                 rel="alternate"
@@ -277,6 +321,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.kulturhofkeller.at/en/organisers/honkytonk/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.kulturhofkeller.at/en/organisers/ju-villach/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/organisers/ju-villach/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/organisers/ju-villach/"
                 />
   </url>
   
