@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.kulturhofkeller.at/en/events/2020-03_paulruben/</loc>
+    <lastmod>2020-03-14T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.kulturhofkeller.at/events/2020-03_paulruben/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.kulturhofkeller.at/en/events/2020-03_paulruben/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.kulturhofkeller.at/en/tags/concert/</loc>
     <lastmod>2020-03-14T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -29,21 +44,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.kulturhofkeller.at/en/events/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.kulturhofkeller.at/en/events/2020-03_paulruben/</loc>
-    <lastmod>2020-03-14T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.kulturhofkeller.at/events/2020-03_paulruben/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.kulturhofkeller.at/en/events/2020-03_paulruben/"
                 />
   </url>
   
