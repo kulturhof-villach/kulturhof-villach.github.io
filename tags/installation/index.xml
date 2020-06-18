@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>installation on kulturhof:keller</title>
+    <link>http://www.kulturhofkeller.at/tags/installation/</link>
+    <description>Recent content in installation on kulturhof:keller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-at</language>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.kulturhofkeller.at/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eröffnung: Klang:korridor &amp; Schau:raum</title>
+      <link>http://www.kulturhofkeller.at/events/2020-06_klangkorridor-schauraum/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.kulturhofkeller.at/events/2020-06_klangkorridor-schauraum/</guid>
+      <description>Ab Montag den 22. Juni um 19 Uhr ist im Kulturhof Villach wieder Kunst zu erleben. Der Verein kult:villach meldet sich nach der Corona-Pause mit zwei neuen Formaten zurück. Akustisch öffnen wir den Klang:korridor und optisch die wohl kleinste Galerie Kärntens – den Schau:raum. Eröffnet wird diese neue Projektreihe mit einer Soundinstallation und Bildern des Villacher Künstlers Matthias Peyker.
+Die Ausstellung läuft bis 5. August 2020 und ist täglich zwischen 10 und 20 Uhr geöffnet</description>
+    </item>
+    
+  </channel>
+</rss>
