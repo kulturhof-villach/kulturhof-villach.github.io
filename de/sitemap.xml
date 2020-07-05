@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.kulturhofkeller.at/events/co-festival/2020-08-13_cofestival_paulruben/</loc>
+    <lastmod>2020-08-13T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.kulturhofkeller.at/events/</loc>
-    <lastmod>2020-06-27T00:00:00+02:00</lastmod>
+    <lastmod>2020-08-13T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,8 +23,23 @@
   </url>
   
   <url>
+    <loc>https://www.kulturhofkeller.at/tags/konzert/</loc>
+    <lastmod>2020-08-13T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kulturhofkeller.at/en/tags/konzert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.kulturhofkeller.at/tags/konzert/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.kulturhofkeller.at/tags/</loc>
-    <lastmod>2020-06-27T00:00:00+02:00</lastmod>
+    <lastmod>2020-08-13T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +50,41 @@
                 hreflang="de"
                 href="https://www.kulturhofkeller.at/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/events/co-festival/2020-08-08_cofestival_parsini-stewart/</loc>
+    <lastmod>2020-08-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/events/co-festival/2020-07-31_cofestival_lindermuth/</loc>
+    <lastmod>2020-07-31T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/tags/lesung/</loc>
+    <lastmod>2020-07-31T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/events/co-festival/2020-07-25_cofestival_rap-im-hof/</loc>
+    <lastmod>2020-07-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/events/co-festival/2020-07-23_cofestival_stockenreitner-fisch-fischer/</loc>
+    <lastmod>2020-07-23T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/tags/kabarett/</loc>
+    <lastmod>2020-07-23T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/events/co-festival/2020-07-18_cofestival_pippa/</loc>
+    <lastmod>2020-07-18T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -233,21 +288,6 @@
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/tags/konzert/</loc>
-    <lastmod>2020-02-29T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kulturhofkeller.at/en/tags/konzert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.kulturhofkeller.at/tags/konzert/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.kulturhofkeller.at/events/2020-02_kreiml-samurai/</loc>
     <lastmod>2020-02-29T00:00:00+01:00</lastmod>
   </url>
@@ -378,22 +418,12 @@
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/tags/kabarett/</loc>
-    <lastmod>2019-11-22T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.kulturhofkeller.at/events/2019/2019-11_kabarettkoalition/</loc>
     <lastmod>2019-11-22T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.kulturhofkeller.at/events/2019/2019-11_unikum/</loc>
-    <lastmod>2019-11-21T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kulturhofkeller.at/tags/lesung/</loc>
     <lastmod>2019-11-21T00:00:00+01:00</lastmod>
   </url>
   
@@ -576,6 +606,20 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.kulturhofkeller.at/organisers/zukringl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/organisers/cofestival/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kulturhofkeller.at/en/organisers/cofestival/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.kulturhofkeller.at/organisers/cofestival/"
                 />
   </url>
   

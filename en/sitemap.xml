@@ -285,6 +285,20 @@
   </url>
   
   <url>
+    <loc>https://www.kulturhofkeller.at/en/organisers/cofestival/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.kulturhofkeller.at/organisers/cofestival/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kulturhofkeller.at/en/organisers/cofestival/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.kulturhofkeller.at/en/organisers/damensalon/</loc>
     <xhtml:link
                 rel="alternate"
