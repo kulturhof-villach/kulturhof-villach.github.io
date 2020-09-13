@@ -6,10 +6,28 @@
     <description>Recent content in Tags on kulturhof:keller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://www.kulturhofkeller.at/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>concert</title>
+      <link>https://www.kulturhofkeller.at/tags/concert/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.kulturhofkeller.at/tags/concert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lesung</title>
+      <link>https://www.kulturhofkeller.at/tags/lesung/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.kulturhofkeller.at/tags/lesung/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>konzert</title>
@@ -30,15 +48,6 @@
     </item>
     
     <item>
-      <title>lesung</title>
-      <link>https://www.kulturhofkeller.at/tags/lesung/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://www.kulturhofkeller.at/tags/lesung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kabarett</title>
       <link>https://www.kulturhofkeller.at/tags/kabarett/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
@@ -53,15 +62,6 @@
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0200</pubDate>
       
       <guid>https://www.kulturhofkeller.at/tags/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>concert</title>
-      <link>https://www.kulturhofkeller.at/tags/concert/</link>
-      <pubDate>Thu, 09 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://www.kulturhofkeller.at/tags/concert/</guid>
       <description></description>
     </item>
     

@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/co-festival/2020-08-13_cofestival_paulruben/</loc>
-    <lastmod>2020-08-13T00:00:00+02:00</lastmod>
+    <loc>https://www.kulturhofkeller.at/tags/concert/</loc>
+    <lastmod>2020-09-19T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kulturhofkeller.at/en/tags/concert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.kulturhofkeller.at/tags/concert/"
+                />
   </url>
   
   <url>
     <loc>https://www.kulturhofkeller.at/events/</loc>
-    <lastmod>2020-08-13T00:00:00+02:00</lastmod>
+    <lastmod>2020-09-19T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,6 +30,61 @@
                 hreflang="de"
                 href="https://www.kulturhofkeller.at/events/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/events/2020-09_sigridhorn/</loc>
+    <lastmod>2020-09-19T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/tags/</loc>
+    <lastmod>2020-09-19T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kulturhofkeller.at/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.kulturhofkeller.at/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/events/2020-09_franziskatschinderle/</loc>
+    <lastmod>2020-09-18T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kulturhofkeller.at/en/events/2020-09_franziskatschinderle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.kulturhofkeller.at/events/2020-09_franziskatschinderle/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/tags/lesung/</loc>
+    <lastmod>2020-09-18T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kulturhofkeller.at/en/tags/lesung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.kulturhofkeller.at/tags/lesung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/events/co-festival/2020-08-13_cofestival_paulruben/</loc>
+    <lastmod>2020-08-13T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -34,21 +99,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.kulturhofkeller.at/tags/konzert/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.kulturhofkeller.at/tags/</loc>
-    <lastmod>2020-08-13T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kulturhofkeller.at/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.kulturhofkeller.at/tags/"
                 />
   </url>
   
@@ -69,11 +119,6 @@
   
   <url>
     <loc>https://www.kulturhofkeller.at/events/co-festival/2020-07-31_cofestival_lindermuth/</loc>
-    <lastmod>2020-07-31T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kulturhofkeller.at/tags/lesung/</loc>
     <lastmod>2020-07-31T00:00:00+02:00</lastmod>
   </url>
   
@@ -195,21 +240,6 @@
   <url>
     <loc>https://www.kulturhofkeller.at/events/2020-04_turbotheaterkids8&#43;/</loc>
     <lastmod>2020-04-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kulturhofkeller.at/tags/concert/</loc>
-    <lastmod>2020-04-09T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kulturhofkeller.at/en/tags/concert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.kulturhofkeller.at/tags/concert/"
-                />
   </url>
   
   <url>
