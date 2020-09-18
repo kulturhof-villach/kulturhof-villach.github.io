@@ -5,11 +5,7 @@
     <link>https://www.kulturhofkeller.at/en/organisers/</link>
     <description>Recent content in Organisers on kulturhof:keller</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-at</language>
-    
-	<atom:link href="https://www.kulturhofkeller.at/en/organisers/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>de-at</language><atom:link href="https://www.kulturhofkeller.at/en/organisers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>acme</title>
       <link>https://www.kulturhofkeller.at/en/organisers/acme/</link>
