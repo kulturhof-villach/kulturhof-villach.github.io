@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.kulturhofkeller.at/events/</loc>
-    <lastmod>2020-10-05T00:00:00+02:00</lastmod>
+    <lastmod>2020-10-23T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,18 +18,28 @@
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-10_klangkorridor-schauraum/</loc>
-    <lastmod>2020-10-05T00:00:00+02:00</lastmod>
+    <loc>https://www.kulturhofkeller.at/tags/konzert/</loc>
+    <lastmod>2020-10-23T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kulturhofkeller.at/en/tags/konzert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.kulturhofkeller.at/tags/konzert/"
+                />
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/tags/installation/</loc>
-    <lastmod>2020-10-05T00:00:00+02:00</lastmod>
+    <loc>https://www.kulturhofkeller.at/events/2020-10_krummi/</loc>
+    <lastmod>2020-10-23T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.kulturhofkeller.at/tags/</loc>
-    <lastmod>2020-10-05T00:00:00+02:00</lastmod>
+    <lastmod>2020-10-23T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,6 +50,16 @@
                 hreflang="de"
                 href="https://www.kulturhofkeller.at/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/events/2020-10_klangkorridor-schauraum/</loc>
+    <lastmod>2020-10-05T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/tags/installation/</loc>
+    <lastmod>2020-10-05T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -95,21 +115,6 @@
   <url>
     <loc>https://www.kulturhofkeller.at/events/co-festival/2020-08-13_cofestival_paulruben/</loc>
     <lastmod>2020-08-13T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kulturhofkeller.at/tags/konzert/</loc>
-    <lastmod>2020-08-13T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kulturhofkeller.at/en/tags/konzert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.kulturhofkeller.at/tags/konzert/"
-                />
   </url>
   
   <url>
