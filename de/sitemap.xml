@@ -68,8 +68,33 @@
   </url>
   
   <url>
+    <loc>https://www.kulturhofkeller.at/2020-10_theaterwerkstatt/</loc>
+    <lastmod>2020-10-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/tags/workshop/</loc>
+    <lastmod>2020-10-25T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kulturhofkeller.at/en/tags/workshop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.kulturhofkeller.at/tags/workshop/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.kulturhofkeller.at/events/2020-10_krummi/</loc>
     <lastmod>2020-10-23T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/2020-10_turbotanzt/</loc>
+    <lastmod>2020-10-13T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -160,21 +185,6 @@
   <url>
     <loc>https://www.kulturhofkeller.at/events/2020-06_turbotheaterkids8&#43;1/</loc>
     <lastmod>2020-06-27T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kulturhofkeller.at/tags/workshop/</loc>
-    <lastmod>2020-06-27T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kulturhofkeller.at/en/tags/workshop/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.kulturhofkeller.at/tags/workshop/"
-                />
   </url>
   
   <url>
