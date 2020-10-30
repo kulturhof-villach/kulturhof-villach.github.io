@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.kulturhofkeller.at/events/2020-12_culk-artificialsons/</loc>
+    <lastmod>2020-12-12T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.kulturhofkeller.at/events/</loc>
-    <lastmod>2020-12-09T00:00:00+01:00</lastmod>
+    <lastmod>2020-12-12T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +19,36 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.kulturhofkeller.at/events/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/tags/konzert/</loc>
+    <lastmod>2020-12-12T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kulturhofkeller.at/en/tags/konzert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.kulturhofkeller.at/tags/konzert/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/tags/</loc>
+    <lastmod>2020-12-12T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kulturhofkeller.at/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.kulturhofkeller.at/tags/"
                 />
   </url>
   
@@ -33,21 +68,6 @@
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/tags/</loc>
-    <lastmod>2020-12-09T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kulturhofkeller.at/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.kulturhofkeller.at/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.kulturhofkeller.at/tags/theater/</loc>
     <lastmod>2020-12-09T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -60,6 +80,16 @@
                 hreflang="de"
                 href="https://www.kulturhofkeller.at/tags/theater/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/events/2020-12_lauermann/</loc>
+    <lastmod>2020-12-04T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/events/2020-11_base-hansiandgretels/</loc>
+    <lastmod>2020-11-21T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -108,18 +138,18 @@
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/tags/konzert/</loc>
-    <lastmod>2020-10-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kulturhofkeller.at/en/tags/konzert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.kulturhofkeller.at/tags/konzert/"
-                />
+    <loc>https://www.kulturhofkeller.at/events/2020-11_gebenedeit/</loc>
+    <lastmod>2020-11-13T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/tags/performance/</loc>
+    <lastmod>2020-11-12T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kulturhofkeller.at/events/2020-11_scienceslam/</loc>
+    <lastmod>2020-11-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -138,7 +168,7 @@
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-10_whats-your-nationality.de./</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-10_whats-your-nationality.de./</loc>
     <lastmod>2020-10-28T00:00:00+01:00</lastmod>
   </url>
   
@@ -163,7 +193,7 @@
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-10_krummi/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-10_krummi/</loc>
     <lastmod>2020-10-23T00:00:00+02:00</lastmod>
   </url>
   
@@ -173,7 +203,7 @@
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-10_klangkorridor-schauraum/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-10_klangkorridor-schauraum/</loc>
     <lastmod>2020-10-05T00:00:00+02:00</lastmod>
   </url>
   
@@ -198,22 +228,22 @@
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-09_sigridhorn/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-09_sigridhorn/</loc>
     <lastmod>2020-09-19T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-09_franziskatschinderle/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-09_franziskatschinderle/</loc>
     <lastmod>2020-09-18T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kulturhofkeller.at/en/events/2020-09_franziskatschinderle/"
+                href="https://www.kulturhofkeller.at/en/events/2020/2020-09_franziskatschinderle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.kulturhofkeller.at/events/2020-09_franziskatschinderle/"
+                href="https://www.kulturhofkeller.at/events/2020/2020-09_franziskatschinderle/"
                 />
   </url>
   
@@ -223,7 +253,7 @@
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-08_klangkorridor-schauraum/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-08_klangkorridor-schauraum/</loc>
     <lastmod>2020-08-10T00:00:00+02:00</lastmod>
   </url>
   
@@ -258,137 +288,137 @@
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-06_turbotheaterkids8&#43;1/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-06_turbotheaterkids8&#43;1/</loc>
     <lastmod>2020-06-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-06_klangkorridor-schauraum/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-06_klangkorridor-schauraum/</loc>
     <lastmod>2020-06-22T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-06_kopf-aus-koerper-an2/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-06_kopf-aus-koerper-an2/</loc>
     <lastmod>2020-06-15T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-06_turbotheaterwerkstatt14&#43;/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-06_turbotheaterwerkstatt14&#43;/</loc>
     <lastmod>2020-06-10T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-06_kopf-aus-koerper-an/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-06_kopf-aus-koerper-an/</loc>
     <lastmod>2020-06-08T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-06_turbotheaterkids8&#43;/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-06_turbotheaterkids8&#43;/</loc>
     <lastmod>2020-06-03T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-05_turbotheaterwerkstatt14&#43;/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-05_turbotheaterwerkstatt14&#43;/</loc>
     <lastmod>2020-05-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-05_kopf-aus-koerper-an3/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-05_kopf-aus-koerper-an3/</loc>
     <lastmod>2020-05-25T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-05_turbotheaterkids8&#43;1/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-05_turbotheaterkids8&#43;1/</loc>
     <lastmod>2020-05-20T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-05_kopf-aus-koerper-an2/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-05_kopf-aus-koerper-an2/</loc>
     <lastmod>2020-05-18T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-05_kopf-aus-koerper-an/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-05_kopf-aus-koerper-an/</loc>
     <lastmod>2020-05-11T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-05_turbotheaterkids8&#43;/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-05_turbotheaterkids8&#43;/</loc>
     <lastmod>2020-05-06T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-04_turbotheaterkids8&#43;2/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-04_turbotheaterkids8&#43;2/</loc>
     <lastmod>2020-04-29T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-04_kopf-aus-koerper-an2/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-04_kopf-aus-koerper-an2/</loc>
     <lastmod>2020-04-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-04_turbotheaterkids8&#43;1/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-04_turbotheaterkids8&#43;1/</loc>
     <lastmod>2020-04-22T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-04_kopf-aus-koerper-an/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-04_kopf-aus-koerper-an/</loc>
     <lastmod>2020-04-20T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-04_turbotheaterkids8&#43;/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-04_turbotheaterkids8&#43;/</loc>
     <lastmod>2020-04-15T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-04_sigridhorn/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-04_sigridhorn/</loc>
     <lastmod>2020-04-09T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-04_honkytonk/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-04_honkytonk/</loc>
     <lastmod>2020-04-04T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-03_josh/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-03_josh/</loc>
     <lastmod>2020-03-21T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-03_paulruben/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-03_paulruben/</loc>
     <lastmod>2020-03-14T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kulturhofkeller.at/en/events/2020-03_paulruben/"
+                href="https://www.kulturhofkeller.at/en/events/2020/2020-03_paulruben/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.kulturhofkeller.at/events/2020-03_paulruben/"
+                href="https://www.kulturhofkeller.at/events/2020/2020-03_paulruben/"
                 />
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-03_kulturforum/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-03_kulturforum/</loc>
     <lastmod>2020-03-13T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-03_aliciaedelweiss/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-03_aliciaedelweiss/</loc>
     <lastmod>2020-03-07T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-03_theastronauten3/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-03_theastronauten3/</loc>
     <lastmod>2020-03-06T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-03_theastronauten2/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-03_theastronauten2/</loc>
     <lastmod>2020-03-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -408,72 +438,72 @@
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-02_kreiml-samurai/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-02_kreiml-samurai/</loc>
     <lastmod>2020-02-29T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-02_zwueld/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-02_zwueld/</loc>
     <lastmod>2020-02-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kulturhofkeller.at/en/events/2020-02_zwueld/"
+                href="https://www.kulturhofkeller.at/en/events/2020/2020-02_zwueld/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.kulturhofkeller.at/events/2020-02_zwueld/"
+                href="https://www.kulturhofkeller.at/events/2020/2020-02_zwueld/"
                 />
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-02_biseinerheult3/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-02_biseinerheult3/</loc>
     <lastmod>2020-02-24T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-02_biseinerheult2/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-02_biseinerheult2/</loc>
     <lastmod>2020-02-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-02_biseinerheult1/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-02_biseinerheult1/</loc>
     <lastmod>2020-02-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-02_biseinerheult/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-02_biseinerheult/</loc>
     <lastmod>2020-02-07T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-01_interzone/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-01_interzone/</loc>
     <lastmod>2020-01-23T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-01_bartleby3/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-01_bartleby3/</loc>
     <lastmod>2020-01-18T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-01_bartleby2/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-01_bartleby2/</loc>
     <lastmod>2020-01-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-01_bartleby1/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-01_bartleby1/</loc>
     <lastmod>2020-01-16T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-01_theastronauten1/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-01_theastronauten1/</loc>
     <lastmod>2020-01-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kulturhofkeller.at/events/2020-01_theastronauten/</loc>
+    <loc>https://www.kulturhofkeller.at/events/2020/2020-01_theastronauten/</loc>
     <lastmod>2020-01-10T00:00:00+01:00</lastmod>
   </url>
   
