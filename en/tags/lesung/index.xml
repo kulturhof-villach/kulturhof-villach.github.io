@@ -6,7 +6,11 @@
     <description>Recent content in lesung on kulturhof:keller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0200</lastBuildDate><atom:link href="https://kulturhofvillach.at/en/tags/lesung/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://kulturhofvillach.at/en/tags/lesung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Book presentation: Franziska Tschinderle</title>
       <link>https://kulturhofvillach.at/en/events/2020/2020-09_franziskatschinderle/</link>
