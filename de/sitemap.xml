@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kulturhofvillach.at/events/2020/2020-12_culk-artificialsons/</loc>
-    <lastmod>2020-12-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kulturhofvillach.at/events/</loc>
-    <lastmod>2020-12-12T00:00:00+01:00</lastmod>
+    <lastmod>2021-05-22T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,6 +15,36 @@
                 hreflang="de"
                 href="https://kulturhofvillach.at/events/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/installation/</loc>
+    <lastmod>2021-05-22T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/</loc>
+    <lastmod>2021-05-22T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-05_wiedereroeffnung/</loc>
+    <lastmod>2021-05-22T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2020/2020-12_culk-artificialsons/</loc>
+    <lastmod>2020-12-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -34,21 +59,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://kulturhofvillach.at/tags/konzert/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/</loc>
-    <lastmod>2020-12-12T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/"
                 />
   </url>
   
@@ -204,11 +214,6 @@
   
   <url>
     <loc>https://kulturhofvillach.at/events/2020/2020-10_klangkorridor-schauraum/</loc>
-    <lastmod>2020-10-05T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/installation/</loc>
     <lastmod>2020-10-05T00:00:00+02:00</lastmod>
   </url>
   
