@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://kulturhofvillach.at/events/</loc>
-    <lastmod>2021-05-22T00:00:00+02:00</lastmod>
+    <lastmod>2021-08-21T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,13 +18,13 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/tags/installation/</loc>
-    <lastmod>2021-05-22T00:00:00+02:00</lastmod>
+    <loc>https://kulturhofvillach.at/events/2021-08_3_mynameispeggy/</loc>
+    <lastmod>2021-08-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://kulturhofvillach.at/tags/</loc>
-    <lastmod>2021-05-22T00:00:00+02:00</lastmod>
+    <lastmod>2021-08-21T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,18 +38,68 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/events/2021-05_wiedereroeffnung/</loc>
-    <lastmod>2021-05-22T00:00:00+02:00</lastmod>
+    <loc>https://kulturhofvillach.at/tags/theater/</loc>
+    <lastmod>2021-08-21T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/theater/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/theater/"
+                />
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/events/2020/2020-12_culk-artificialsons/</loc>
-    <lastmod>2020-12-12T00:00:00+01:00</lastmod>
+    <loc>https://kulturhofvillach.at/events/2021-08_2_mynameispeggy/</loc>
+    <lastmod>2021-08-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-08_1_mynameispeggy/</loc>
+    <lastmod>2021-08-14T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-06_1_seberg-hossa/</loc>
+    <lastmod>2021-06-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/kabarett/</loc>
+    <lastmod>2021-06-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-06_1_kaufmann-herberstein-schreiner/</loc>
+    <lastmod>2021-06-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-06_1_fleischhacker-mitmannsgruber/</loc>
+    <lastmod>2021-06-24T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-06_3_turbotheater/</loc>
+    <lastmod>2021-06-13T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-06_2_turbotheater/</loc>
+    <lastmod>2021-06-12T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-06_1_turbotheater/</loc>
+    <lastmod>2021-06-11T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://kulturhofvillach.at/tags/konzert/</loc>
-    <lastmod>2020-12-12T00:00:00+01:00</lastmod>
+    <lastmod>2021-06-01T00:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,6 +110,51 @@
                 hreflang="de"
                 href="https://kulturhofvillach.at/tags/konzert/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-06_1_schiefl-baer/</loc>
+    <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-05_1_malarina-petutschnig/</loc>
+    <lastmod>2021-05-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-05_1_radeschnig-groebner/</loc>
+    <lastmod>2021-05-29T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-05_1_wundrak/</loc>
+    <lastmod>2021-05-28T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-05_1_manudelago/</loc>
+    <lastmod>2021-05-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-05_2_manudelago.de-copy/</loc>
+    <lastmod>2021-05-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/installation/</loc>
+    <lastmod>2021-05-22T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-05_wiedereroeffnung/</loc>
+    <lastmod>2021-05-22T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2020/2020-12_culk-artificialsons/</loc>
+    <lastmod>2020-12-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -74,21 +169,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://kulturhofvillach.at/events/2020/2020-11_mynameispeggy3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/theater/</loc>
-    <lastmod>2020-12-09T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/theater/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/theater/"
                 />
   </url>
   
@@ -279,11 +359,6 @@
   
   <url>
     <loc>https://kulturhofvillach.at/events/co-festival/2020-07-23_cofestival_stockenreitner-fisch-fischer/</loc>
-    <lastmod>2020-07-23T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/kabarett/</loc>
     <lastmod>2020-07-23T00:00:00+02:00</lastmod>
   </url>
   
