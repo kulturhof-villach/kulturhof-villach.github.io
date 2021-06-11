@@ -1,15 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kulturhof:Villach on kulturhof:Villach</title>
+    <title>Kulturhof:Villach</title>
     <link>https://kulturhofvillach.at/</link>
-    <description>Recent content in Kulturhof:Villach on kulturhof:Villach</description>
+    <description>Recent content on Kulturhof:Villach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kulturhofvillach.at/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unterstützen</title>
+      <link>https://kulturhofvillach.at/unterstuetzen/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kulturhofvillach.at/unterstuetzen/</guid>
+      <description>Der Kulturhof:villach finanziert sich soweit als möglich durch Subventionen von Bund, Land und Stadt und lebt vom ehrenamtlichen Engagement des Teams rund um den Kulturhof:. Über eure Unterstützung würden wir uns sehr freuen!
+Ehrenamtliche Mitarbeit Hast du Zeit und Lust im Team des Kulturhof: mitzuarbeiten? Wir freuen uns immer über freiwillige Helferlein bei Bühnenaufbau, Publikumsdienst, Licht- und Tontechnik, Fotografieren, Zusammenräumen, etc. Bei Interesse schreib uns doch ein Mail an office@kulturhofvillach.at.</description>
+    </item>
+    
+    <item>
+      <title>Covid-Informationen</title>
+      <link>https://kulturhofvillach.at/covid-info/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kulturhofvillach.at/covid-info/</guid>
+      <description>Wichtige Covid-19-Hinweise für Besucher*innen von Veranstaltungen im Kulturhof:villach Mindestabstand Bei zugewiesenen Sitzplätzen mindestens ein freier Sitzplatz zwischen Besucher*innengruppen, ansonsten gilt zwei Meter Mindestabstand zu Haushaltsfremden bzw. außerhalb der Besucher*innengruppe.
+Maskenpflicht In Innenräumen gilt FFP2-Maskenpflicht während der gesamten Veranstaltung.
+Ausnahme: Kinder bis 14 Jahre, von 6 - 13 Jahren reicht eine Mund-Nasen-Maske.
+Getestet, Geimpft, Genesen Eintritt nur mit Nachweis über eine geringe epidemiologische Gefahr: getestet, genesen oder geimpft.
+Ausnahme: Kinder bis 10 Jahre bzw.</description>
+    </item>
+    
+    <item>
+      <title>Presse</title>
+      <link>https://kulturhofvillach.at/presse-info/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kulturhofvillach.at/presse-info/</guid>
+      <description>Presseinformationen Hier findet ihr Pressematerialien zum Kulturhof:villach sowie zu den Veranstaltungen im Kulturzentrum. Bitte die entsprechenden Fotocredits verwenden. Die Fotos aus dem Ordner Kulturhof:villach sind bei Verwendung mit ©Kulturhof:villach zu kennzeichnen.
+zu den Pressematerialien</description>
+    </item>
     
     <item>
       <title>My Name is Peggy</title>
@@ -158,26 +191,6 @@ Covid Informationen Wichtige Informationen zum Besuch im Kulturhof.</description
     </item>
     
     <item>
-      <title>Presse</title>
-      <link>https://kulturhofvillach.at/presse-info/</link>
-      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kulturhofvillach.at/presse-info/</guid>
-      <description>Presseinformationen Hier findet ihr Pressematerialien zum Kulturhof:villach sowie zu den Veranstaltungen im Kulturzentrum. Bitte die entsprechenden Fotocredits verwenden. Die Fotos aus dem Ordner Kulturhof:villach sind bei Verwendung mit ©Kulturhof:villach zu kennzeichnen.
-zu den Pressematerialien</description>
-    </item>
-    
-    <item>
-      <title>Unterstützen</title>
-      <link>https://kulturhofvillach.at/unterstuetzen/</link>
-      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kulturhofvillach.at/unterstuetzen/</guid>
-      <description>Der Kulturhof:villach finanziert sich soweit als möglich durch Subventionen von Bund, Land und Stadt und lebt vom ehrenamtlichen Engagement des Teams rund um den Kulturhof:. Über eure Unterstützung würden wir uns sehr freuen!
-Ehrenamtliche Mitarbeit Hast du Zeit und Lust im Team des Kulturhof: mitzuarbeiten? Wir freuen uns immer über freiwillige Helferlein bei Bühnenaufbau, Publikumsdienst, Licht- und Tontechnik, Fotografieren, Zusammenräumen, etc. Bei Interesse schreib uns doch ein Mail an office@kulturhofvillach.at.</description>
-    </item>
-    
-    <item>
       <title>Matthias Schriefl / Johannes Bär Duo</title>
       <link>https://kulturhofvillach.at/events/2021-06_1_schriefl-baer/</link>
       <pubDate>Tue, 01 Jun 2021 19:30:00 +0200</pubDate>
@@ -250,20 +263,7 @@ Die Basis des Projekts bilden die zwei Experten der unkonventionellen Blasmusik 
       <pubDate>Sat, 22 May 2021 00:00:00 +0200</pubDate>
       
       <guid>https://kulturhofvillach.at/events/2021-05_wiedereroeffnung/</guid>
-      <description>Die Metamorphose des kulturhof:villach hat sich vollzogen Es ist das Jahr 2021. Es wird das Jahr der nachhaltigen Wiedereröffnung des gesamten Kunst- und Kulturbereichs. UND - es ist auch ein ganz besonderes Jahr für den kulturhof:villach. Seit 10 Jahren steht der kulturhof:™ als fest verankerte Institution für einen diversen Mix aus Konzerten, Theater, Lesungen und Ausstellungen, ein Programm, das einen großen und wichtigen Teil des lokalen Kulturlebens ausmacht und mit nationalen wie internationalen Künstler*innen in den letzten 10 Jahren immer wieder Neues und Spannendes präsentierte.</description>
-    </item>
-    
-    <item>
-      <title>Covid-Informationen</title>
-      <link>https://kulturhofvillach.at/covid-info/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kulturhofvillach.at/covid-info/</guid>
-      <description>Wichtige Covid-19-Hinweise für Besucher*innen von Veranstaltungen im kulturhof:villach Mindestabstand Bei zugewiesenen Sitzplätzen mindestens ein freier Sitzplatz zwischen Besucher*innengruppen, ansonsten gilt zwei Meter Mindestabstand zu Haushaltsfremden bzw. außerhalb der Besucher*innengruppe.
-Maskenpflicht In Innenräumen gilt FFP2-Maskenpflicht während der gesamten Veranstaltung.
-Ausnahme: Kinder bis 14 Jahre, von 6 - 13 Jahren reicht eine Mund-Nasen-Maske.
-Getestet, Geimpft, Genesen Eintritt nur mit Nachweis über eine geringe epidemiologische Gefahr: getestet, genesen oder geimpft.
-Ausnahme: Kinder bis 10 Jahre bzw.</description>
+      <description>Die Metamorphose des Kulturhof:villach hat sich vollzogen Es ist das Jahr 2021. Es wird das Jahr der nachhaltigen Wiedereröffnung des gesamten Kunst- und Kulturbereichs. UND - es ist auch ein ganz besonderes Jahr für den Kulturhof:villach. Seit 10 Jahren steht der Kulturhof:™ als fest verankerte Institution für einen diversen Mix aus Konzerten, Theater, Lesungen und Ausstellungen, ein Programm, das einen großen und wichtigen Teil des lokalen Kulturlebens ausmacht und mit nationalen wie internationalen Künstler*innen in den letzten 10 Jahren immer wieder Neues und Spannendes präsentierte.</description>
     </item>
     
     <item>
