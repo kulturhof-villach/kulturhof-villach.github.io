@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://kulturhofvillach.at/events/</loc>
-    <lastmod>2021-08-21T20:00:00+02:00</lastmod>
+    <lastmod>2021-08-28T20:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,13 +33,43 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/events/2021-08_3_mynameispeggy/</loc>
-    <lastmod>2021-08-21T20:00:00+02:00</lastmod>
+    <loc>https://kulturhofvillach.at/tags/konzert/</loc>
+    <lastmod>2021-08-28T20:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/konzert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/konzert/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/open-mic/</loc>
+    <lastmod>2021-08-28T20:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/open-mic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/open-mic/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-08_rapimhof/</loc>
+    <lastmod>2021-08-28T20:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://kulturhofvillach.at/tags/</loc>
-    <lastmod>2021-08-21T20:00:00+02:00</lastmod>
+    <lastmod>2021-08-28T20:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -50,6 +80,16 @@
                 hreflang="de"
                 href="https://kulturhofvillach.at/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-08-28_klare-swell/</loc>
+    <lastmod>2021-08-25T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-08_3_mynameispeggy/</loc>
+    <lastmod>2021-08-21T20:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -73,8 +113,28 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/events/2021-08_langenachtdestanzens/</loc>
+    <lastmod>2021-08-18T18:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/performance/</loc>
+    <lastmod>2021-08-18T18:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/events/2021-08_1_mynameispeggy/</loc>
     <lastmod>2021-08-14T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-08-07_poetry-slam/</loc>
+    <lastmod>2021-08-07T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/poetryslam/</loc>
+    <lastmod>2021-08-07T20:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -88,28 +148,8 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/tags/konzert/</loc>
-    <lastmod>2021-07-31T18:30:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/konzert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/konzert/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/performance/</loc>
-    <lastmod>2021-07-31T18:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kulturhofvillach.at/events/2021-07-29_lukas-gabric/</loc>
-    <lastmod>2021-07-29T19:30:00+02:00</lastmod>
+    <lastmod>2021-07-29T20:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -130,6 +170,11 @@
                 hreflang="de"
                 href="https://kulturhofvillach.at/tags/clubbing/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-07-24_peter-wood/</loc>
+    <lastmod>2021-07-23T18:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -678,21 +723,6 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/tags/open-mic/</loc>
-    <lastmod>2019-11-29T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/open-mic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/open-mic/"
-                />
-  </url>
-  
-  <url>
     <loc>https://kulturhofvillach.at/events/2019/2019-11_rapimkeller/</loc>
     <lastmod>2019-11-29T00:00:00+01:00</lastmod>
   </url>
@@ -1050,6 +1080,20 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://kulturhofvillach.at/organisers/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/organisers/peterbrianwood/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/organisers/peterbrianwood/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/organisers/peterbrianwood/"
                 />
   </url>
   

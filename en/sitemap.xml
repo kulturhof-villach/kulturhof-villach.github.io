@@ -529,6 +529,20 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/en/organisers/peterbrianwood/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/organisers/peterbrianwood/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/organisers/peterbrianwood/"
+                />
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/en/organisers/sem-jeito/</loc>
     <xhtml:link
                 rel="alternate"
