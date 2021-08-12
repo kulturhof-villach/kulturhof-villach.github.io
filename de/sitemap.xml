@@ -18,8 +18,13 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/tags/ausstellung/</loc>
+    <lastmod>2021-09-09T18:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/events/</loc>
-    <lastmod>2021-08-25T20:00:00+02:00</lastmod>
+    <lastmod>2021-09-09T18:30:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,13 +38,8 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/events/2021-08-28_klare-swell/</loc>
-    <lastmod>2021-08-25T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kulturhofvillach.at/tags/konzert/</loc>
-    <lastmod>2021-08-25T20:00:00+02:00</lastmod>
+    <lastmod>2021-09-09T18:30:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,8 +53,28 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/events/2021-09-09_10jahresfest/</loc>
+    <lastmod>2021-09-09T18:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-09-10_10jahresfest/</loc>
+    <lastmod>2021-09-09T18:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-09-11_10jahresfest/</loc>
+    <lastmod>2021-09-09T18:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/performance/</loc>
+    <lastmod>2021-09-09T18:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/tags/</loc>
-    <lastmod>2021-08-25T20:00:00+02:00</lastmod>
+    <lastmod>2021-09-09T18:30:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -65,6 +85,11 @@
                 hreflang="de"
                 href="https://kulturhofvillach.at/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-08-28_klare-swell/</loc>
+    <lastmod>2021-08-25T20:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -103,13 +128,23 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/tags/performance/</loc>
-    <lastmod>2021-08-18T18:30:00+02:00</lastmod>
+    <loc>https://kulturhofvillach.at/events/2021-08_1_mynameispeggy/</loc>
+    <lastmod>2021-08-14T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/events/2021-08_1_mynameispeggy/</loc>
-    <lastmod>2021-08-14T20:00:00+02:00</lastmod>
+    <loc>https://kulturhofvillach.at/news/2021-08_ankuendigung-10jahresfest/</loc>
+    <lastmod>2021-08-12T18:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/news/2021-08_artwall-ausschreibung/</loc>
+    <lastmod>2021-08-12T18:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/news/</loc>
+    <lastmod>2021-08-12T18:30:00+02:00</lastmod>
   </url>
   
   <url>
@@ -120,11 +155,6 @@
   <url>
     <loc>https://kulturhofvillach.at/tags/poetryslam/</loc>
     <lastmod>2021-08-07T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/ausstellung/</loc>
-    <lastmod>2021-07-31T18:30:00+02:00</lastmod>
   </url>
   
   <url>
