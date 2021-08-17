@@ -123,26 +123,6 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/tags/lesung/</loc>
-    <lastmod>2021-08-18T20:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/lesung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/lesung/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/events/2021-08-17_testevent/</loc>
-    <lastmod>2021-08-18T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kulturhofvillach.at/events/2021-08_langenachtdestanzens/</loc>
     <lastmod>2021-08-18T18:30:00+02:00</lastmod>
   </url>
@@ -240,6 +220,21 @@
   <url>
     <loc>https://kulturhofvillach.at/events/2021-06_4_bachmann/</loc>
     <lastmod>2021-06-20T10:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/lesung/</loc>
+    <lastmod>2021-06-20T10:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/lesung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/lesung/"
+                />
   </url>
   
   <url>
