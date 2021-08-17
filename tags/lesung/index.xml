@@ -6,7 +6,16 @@
     <description>Recent content in lesung on Kulturhof:Villach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Sun, 20 Jun 2021 10:00:00 +0200</lastBuildDate><atom:link href="https://kulturhofvillach.at/tags/lesung/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Aug 2021 20:00:00 +0200</lastBuildDate><atom:link href="https://kulturhofvillach.at/tags/lesung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testevent</title>
+      <link>https://kulturhofvillach.at/events/2021-08-17_testevent/</link>
+      <pubDate>Wed, 18 Aug 2021 20:00:00 +0200</pubDate>
+      
+      <guid>https://kulturhofvillach.at/events/2021-08-17_testevent/</guid>
+      <description>Testevent </description>
+    </item>
+    
     <item>
       <title>Bachmann-Lesungen</title>
       <link>https://kulturhofvillach.at/events/2021-06_4_bachmann/</link>
