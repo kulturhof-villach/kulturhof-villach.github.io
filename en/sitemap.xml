@@ -487,6 +487,20 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/en/organisers/kulturhof/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/organisers/kulturhof/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/organisers/kulturhof/"
+                />
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/en/organisers/kulturhofkeller/</loc>
     <xhtml:link
                 rel="alternate"

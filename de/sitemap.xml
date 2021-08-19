@@ -18,13 +18,8 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/tags/ausstellung/</loc>
-    <lastmod>2021-09-11T17:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kulturhofvillach.at/events/</loc>
-    <lastmod>2021-09-11T17:00:00+02:00</lastmod>
+    <lastmod>2021-09-16T19:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,6 +30,46 @@
                 hreflang="de"
                 href="https://kulturhofvillach.at/events/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/</loc>
+    <lastmod>2021-09-16T19:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/theater/</loc>
+    <lastmod>2021-09-16T19:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/theater/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/theater/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-09-16_vada/</loc>
+    <lastmod>2021-09-16T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/ausstellung/</loc>
+    <lastmod>2021-09-11T17:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -63,21 +98,6 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/tags/</loc>
-    <lastmod>2021-09-11T17:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://kulturhofvillach.at/events/2021-09-10_10jahresfest/</loc>
     <lastmod>2021-09-10T18:00:00+02:00</lastmod>
   </url>
@@ -95,21 +115,6 @@
   <url>
     <loc>https://kulturhofvillach.at/events/2021-08_3_mynameispeggy/</loc>
     <lastmod>2021-08-21T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/theater/</loc>
-    <lastmod>2021-08-21T20:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/theater/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/theater/"
-                />
   </url>
   
   <url>
@@ -1068,6 +1073,20 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://kulturhofvillach.at/organisers/kulturforum-villach/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/organisers/kulturhof/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/organisers/kulturhof/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/organisers/kulturhof/"
                 />
   </url>
   
