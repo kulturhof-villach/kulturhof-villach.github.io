@@ -23,8 +23,13 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/tags/diskussion/</loc>
+    <lastmod>2021-10-22T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/events/</loc>
-    <lastmod>2021-09-16T19:00:00+02:00</lastmod>
+    <lastmod>2021-10-22T19:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,8 +43,28 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/events/2021-09-29_kurz-ein-regime/</loc>
+    <lastmod>2021-10-22T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/lesung/</loc>
+    <lastmod>2021-10-22T19:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/lesung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/lesung/"
+                />
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/tags/</loc>
-    <lastmod>2021-09-16T19:00:00+02:00</lastmod>
+    <lastmod>2021-10-22T19:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -50,6 +75,21 @@
                 hreflang="de"
                 href="https://kulturhofvillach.at/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-10-22_krimifest/</loc>
+    <lastmod>2021-10-22T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/kabarett/</loc>
+    <lastmod>2021-10-08T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-10-08_sargnagel-tartarotti/</loc>
+    <lastmod>2021-10-08T19:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -74,12 +114,12 @@
   
   <url>
     <loc>https://kulturhofvillach.at/tags/ausstellung/</loc>
-    <lastmod>2021-09-11T17:00:00+02:00</lastmod>
+    <lastmod>2021-09-11T18:30:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://kulturhofvillach.at/tags/konzert/</loc>
-    <lastmod>2021-09-11T17:00:00+02:00</lastmod>
+    <lastmod>2021-09-11T18:30:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -94,22 +134,27 @@
   
   <url>
     <loc>https://kulturhofvillach.at/events/2021-09-11_10jahresfest/</loc>
-    <lastmod>2021-09-11T17:00:00+02:00</lastmod>
+    <lastmod>2021-09-11T18:30:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://kulturhofvillach.at/tags/performance/</loc>
-    <lastmod>2021-09-11T17:00:00+02:00</lastmod>
+    <lastmod>2021-09-11T18:30:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://kulturhofvillach.at/events/2021-09-10_10jahresfest/</loc>
-    <lastmod>2021-09-10T18:00:00+02:00</lastmod>
+    <lastmod>2021-09-10T18:30:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://kulturhofvillach.at/events/2021-09-09_10jahresfest/</loc>
     <lastmod>2021-09-09T18:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-09-07_the-dead-lecturers-the-levels-of-skindergarten/</loc>
+    <lastmod>2021-09-07T20:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -143,12 +188,12 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/news/2021-08_ankuendigung-10jahresfest/</loc>
+    <loc>https://kulturhofvillach.at/news/2021-08_artwall-ausschreibung/</loc>
     <lastmod>2021-08-12T18:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/news/2021-08_artwall-ausschreibung/</loc>
+    <loc>https://kulturhofvillach.at/news/2021-08_ankuendigung-10jahresfest/</loc>
     <lastmod>2021-08-12T18:30:00+02:00</lastmod>
   </url>
   
@@ -208,11 +253,6 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/tags/kabarett/</loc>
-    <lastmod>2021-06-26T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kulturhofvillach.at/events/2021-06_1_kaufmann-herberstein-schreiner/</loc>
     <lastmod>2021-06-26T19:00:00+02:00</lastmod>
   </url>
@@ -230,21 +270,6 @@
   <url>
     <loc>https://kulturhofvillach.at/events/2021-06_4_bachmann/</loc>
     <lastmod>2021-06-20T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/lesung/</loc>
-    <lastmod>2021-06-20T10:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/lesung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/lesung/"
-                />
   </url>
   
   <url>
