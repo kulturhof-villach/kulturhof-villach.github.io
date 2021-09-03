@@ -23,13 +23,8 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/tags/diskussion/</loc>
-    <lastmod>2021-10-22T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kulturhofvillach.at/events/</loc>
-    <lastmod>2021-10-22T19:00:00+02:00</lastmod>
+    <lastmod>2021-10-22T18:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,13 +38,13 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/events/2021-09-29_kurz-ein-regime/</loc>
-    <lastmod>2021-10-22T19:00:00+02:00</lastmod>
+    <loc>https://kulturhofvillach.at/events/2021-10-22_krimifest/</loc>
+    <lastmod>2021-10-22T18:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://kulturhofvillach.at/tags/lesung/</loc>
-    <lastmod>2021-10-22T19:00:00+02:00</lastmod>
+    <lastmod>2021-10-22T18:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,7 +59,7 @@
   
   <url>
     <loc>https://kulturhofvillach.at/tags/</loc>
-    <lastmod>2021-10-22T19:00:00+02:00</lastmod>
+    <lastmod>2021-10-22T18:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,11 +73,6 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/events/2021-10-22_krimifest/</loc>
-    <lastmod>2021-10-22T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kulturhofvillach.at/tags/kabarett/</loc>
     <lastmod>2021-10-08T19:00:00+02:00</lastmod>
   </url>
@@ -90,6 +80,16 @@
   <url>
     <loc>https://kulturhofvillach.at/events/2021-10-08_sargnagel-tartarotti/</loc>
     <lastmod>2021-10-08T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/diskussion/</loc>
+    <lastmod>2021-09-29T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-09-29_kurz-ein-regime/</loc>
+    <lastmod>2021-09-29T19:00:00+02:00</lastmod>
   </url>
   
   <url>
