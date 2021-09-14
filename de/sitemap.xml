@@ -23,8 +23,13 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/events/2021-12-10_kabarett_koalition/</loc>
+    <lastmod>2021-12-10T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/events/</loc>
-    <lastmod>2021-10-22T18:00:00+02:00</lastmod>
+    <lastmod>2021-12-10T19:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,6 +39,26 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://kulturhofvillach.at/events/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/kabarett/</loc>
+    <lastmod>2021-12-10T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/</loc>
+    <lastmod>2021-12-10T19:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/"
                 />
   </url>
   
@@ -58,23 +83,13 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/tags/</loc>
-    <lastmod>2021-10-22T18:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/"
-                />
+    <loc>https://kulturhofvillach.at/tags/flowmarkt/</loc>
+    <lastmod>2021-10-09T12:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/tags/kabarett/</loc>
-    <lastmod>2021-10-08T19:00:00+02:00</lastmod>
+    <loc>https://kulturhofvillach.at/events/2021-10-09_flowmarkt/</loc>
+    <lastmod>2021-10-09T12:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -90,6 +105,21 @@
   <url>
     <loc>https://kulturhofvillach.at/events/2021-09-29_kurz-ein-regime/</loc>
     <lastmod>2021-09-29T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-09-25_lesung-tom-schmieder/</loc>
+    <lastmod>2021-09-25T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/theaterwerkstatt/</loc>
+    <lastmod>2021-09-22T17:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-09-22_turbotheaterwerkstaette/</loc>
+    <lastmod>2021-09-22T17:00:00+02:00</lastmod>
   </url>
   
   <url>
