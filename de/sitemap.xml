@@ -113,6 +113,26 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/events/2021-09-23_joe_mc_phee_trio/</loc>
+    <lastmod>2021-09-23T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/konzert/</loc>
+    <lastmod>2021-09-23T20:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/konzert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/konzert/"
+                />
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/tags/theaterwerkstatt/</loc>
     <lastmod>2021-09-22T17:00:00+02:00</lastmod>
   </url>
@@ -145,21 +165,6 @@
   <url>
     <loc>https://kulturhofvillach.at/tags/ausstellung/</loc>
     <lastmod>2021-09-11T18:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/konzert/</loc>
-    <lastmod>2021-09-11T18:30:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/konzert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/konzert/"
-                />
   </url>
   
   <url>
