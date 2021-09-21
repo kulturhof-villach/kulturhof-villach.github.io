@@ -63,6 +63,31 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/events/2021-11-25_stefan_ofner/</loc>
+    <lastmod>2021-11-25T20:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/konzert/</loc>
+    <lastmod>2021-10-25T20:30:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/konzert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/konzert/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021-10-25_manu_delago/</loc>
+    <lastmod>2021-10-25T20:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/events/2021-10-22_krimifest/</loc>
     <lastmod>2021-10-22T18:00:00+02:00</lastmod>
   </url>
@@ -115,21 +140,6 @@
   <url>
     <loc>https://kulturhofvillach.at/events/2021-09-23_joe_mc_phee_trio/</loc>
     <lastmod>2021-09-23T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/konzert/</loc>
-    <lastmod>2021-09-23T20:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/konzert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/konzert/"
-                />
   </url>
   
   <url>
@@ -423,6 +433,26 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/events/2021-11-19_anna_anderluh_sir_tralala/</loc>
+    <lastmod>2020-11-19T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/concert/</loc>
+    <lastmod>2020-11-19T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/concert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/concert/"
+                />
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/events/2020/2020-11_mynameispeggy1/</loc>
     <lastmod>2020-11-18T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -500,21 +530,6 @@
   <url>
     <loc>https://kulturhofvillach.at/events/2020/2020-10_klangkorridor-schauraum/</loc>
     <lastmod>2020-10-05T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/concert/</loc>
-    <lastmod>2020-09-19T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/concert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/concert/"
-                />
   </url>
   
   <url>
