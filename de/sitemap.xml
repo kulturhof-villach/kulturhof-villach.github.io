@@ -113,6 +113,26 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/events/2021-11-19_anna_anderluh_sir_tralala/</loc>
+    <lastmod>2021-11-19T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/concert/</loc>
+    <lastmod>2021-11-19T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/concert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/concert/"
+                />
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/events/2021-11-17_turbo_theaterwerkstaette/</loc>
     <lastmod>2021-11-17T17:00:00+01:00</lastmod>
   </url>
@@ -479,26 +499,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://kulturhofvillach.at/events/2020/2020-11_mynameispeggy2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/events/2021-11-19_anna_anderluh_sir_tralala/</loc>
-    <lastmod>2020-11-19T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/concert/</loc>
-    <lastmod>2020-11-19T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/concert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/concert/"
                 />
   </url>
   
