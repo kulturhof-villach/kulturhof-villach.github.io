@@ -24,7 +24,7 @@
   
   <url>
     <loc>https://kulturhofvillach.at/events/</loc>
-    <lastmod>2021-12-15T17:00:00+01:00</lastmod>
+    <lastmod>2022-01-22T20:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,8 +38,28 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/tags/konzert/</loc>
+    <lastmod>2022-01-22T20:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/konzert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/konzert/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2022-01-22_paul_plut_ramsau/</loc>
+    <lastmod>2022-01-22T20:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/tags/</loc>
-    <lastmod>2021-12-15T17:00:00+01:00</lastmod>
+    <lastmod>2022-01-22T20:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -85,21 +105,6 @@
   <url>
     <loc>https://kulturhofvillach.at/events/2021-11-28_stefan_ofner_kabarett/</loc>
     <lastmod>2021-11-28T18:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/konzert/</loc>
-    <lastmod>2021-11-27T20:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/konzert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/konzert/"
-                />
   </url>
   
   <url>
