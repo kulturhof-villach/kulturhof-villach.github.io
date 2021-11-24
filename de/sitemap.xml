@@ -23,8 +23,13 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/events/2022/2022-06-10_kabarett_koalition_elli_bauer/</loc>
+    <lastmod>2022-06-10T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/events/</loc>
-    <lastmod>2022-02-18T20:00:00+01:00</lastmod>
+    <lastmod>2022-06-10T19:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,6 +40,31 @@
                 hreflang="de"
                 href="https://kulturhofvillach.at/events/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/kabarett/</loc>
+    <lastmod>2022-06-10T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/</loc>
+    <lastmod>2022-06-10T19:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2022/2022-04-10_gebr%C3%BCder_moped_solo/</loc>
+    <lastmod>2022-04-21T19:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -58,23 +88,38 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/tags/</loc>
-    <lastmod>2022-02-18T20:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/"
-                />
+    <loc>https://kulturhofvillach.at/events/2022/2022-02-17_stefan_ofner/</loc>
+    <lastmod>2022-02-17T20:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2022/2022-02-13_stefan_ofner/</loc>
+    <lastmod>2022-02-13T20:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://kulturhofvillach.at/events/2022/2022-01-22_paul_plut_ramsau/</loc>
     <lastmod>2022-01-22T20:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/clubbing/</loc>
+    <lastmod>2021-12-25T21:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/clubbing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/clubbing/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2021/2021-12-25_tobi_neumann_100_years/</loc>
+    <lastmod>2021-12-25T21:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -89,11 +134,6 @@
   
   <url>
     <loc>https://kulturhofvillach.at/events/2021/2021-12-10_kabarett_koalition/</loc>
-    <lastmod>2021-12-10T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/kabarett/</loc>
     <lastmod>2021-12-10T19:00:00+01:00</lastmod>
   </url>
   
@@ -410,21 +450,6 @@
   <url>
     <loc>https://kulturhofvillach.at/events/2021/2021-07-23_annunaki/</loc>
     <lastmod>2021-07-23T20:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/clubbing/</loc>
-    <lastmod>2021-07-23T20:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/clubbing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/clubbing/"
-                />
   </url>
   
   <url>
