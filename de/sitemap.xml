@@ -63,13 +63,23 @@
   </url>
   
   <url>
-    <loc>https://kulturhofvillach.at/events/2022/2022-04-10_gebr%C3%BCder_moped_solo/</loc>
-    <lastmod>2022-04-21T19:00:00+02:00</lastmod>
+    <loc>https://kulturhofvillach.at/events/2022/2022-05-22_stefan_ofner/</loc>
+    <lastmod>2022-05-22T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2022/2022-05-05_stefan_ofner/</loc>
+    <lastmod>2022-05-05T20:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2022/2022-05-01_gewalt/</loc>
+    <lastmod>2022-05-01T20:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://kulturhofvillach.at/tags/konzert/</loc>
-    <lastmod>2022-02-18T20:00:00+01:00</lastmod>
+    <lastmod>2022-05-01T20:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -80,6 +90,11 @@
                 hreflang="de"
                 href="https://kulturhofvillach.at/tags/konzert/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2022/2022-04-21_gebr%C3%BCder_moped_solo/</loc>
+    <lastmod>2022-04-21T19:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -105,6 +120,11 @@
   <url>
     <loc>https://kulturhofvillach.at/events/2022/2022-01-27_herzaehlungen/</loc>
     <lastmod>2022-01-27T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2022/2022-01-26_knarr/</loc>
+    <lastmod>2022-01-26T19:30:00+01:00</lastmod>
   </url>
   
   <url>
