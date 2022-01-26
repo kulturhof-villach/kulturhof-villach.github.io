@@ -98,6 +98,31 @@
   </url>
   
   <url>
+    <loc>https://kulturhofvillach.at/events/2022/2022-04-08_doppelkonzert/</loc>
+    <lastmod>2022-04-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/tags/concert/</loc>
+    <lastmod>2022-04-08T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kulturhofvillach.at/en/tags/concert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kulturhofvillach.at/tags/concert/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kulturhofvillach.at/events/2022/2022-03-25_dyse/</loc>
+    <lastmod>2022-03-25T20:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kulturhofvillach.at/events/2022/2022-02-18_paut_and_the_great_kellys/</loc>
     <lastmod>2022-02-18T20:00:00+01:00</lastmod>
   </url>
@@ -205,21 +230,6 @@
   <url>
     <loc>https://kulturhofvillach.at/events/2021/2021-11-19_anna_anderluh_sir_tralala/</loc>
     <lastmod>2021-11-19T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kulturhofvillach.at/tags/concert/</loc>
-    <lastmod>2021-11-19T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kulturhofvillach.at/en/tags/concert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kulturhofvillach.at/tags/concert/"
-                />
   </url>
   
   <url>
