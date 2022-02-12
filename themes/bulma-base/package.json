@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "baffle": "^0.3.6",
+    "bulma": "^0.9.2",
+    "bulma-calendar": "^6.1.0",
+    "bulma-timeline": "^3.0.4",
+    "jquery": "^3.6.0",
+    "mermaid": "^8.9.3",
+    "underscore": "^1.13.1",
+    "yarn": "^1.22.10"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.2.5",
+    "browserify": "17.0.0",
+    "clean-css-cli": "5.3.0",
+    "minify": "7.0.2",
+    "mocha": "8.3.2",
+    "node-sass": "5.0.0",
+    "postcss-cli": "8.3.1",
+    "sass": "1.32.12",
+    "watch": "^0.13.0",
+    "watchify": "4.0.0"
+  },
+  "scripts": {
+    "clean": "rm -rf /assets mkdir assets",
+    "git": "git add . && git commit -m",
+    "postgit": "git push --all",
+    "compile:js": "browserify src/main.js --standalone openTab > assets/bundle.js",
+    "minify:js": "minify assets/bundle.js > assets/bundle.min.js",
+    "build:js": "npm run compile:js && npm run minify:js",
+    "compile:css": "node-sass --output-style=expanded --source-map=true src/main.sass assets/bundle.css",
+    "prefix:css": "postcss assets/bundle.css --use=autoprefixer --map=false --output=assets/bundle.css",
+    "minify:css": "cleancss --source-map --source-map-inline-sources --output assets/bundle.min.css assets/bundle.css",
+    "build:css": "npm run compile:css && npm run prefix:css && npm run minify:css",
+    "build": "npm run build:css && npm run build:js",
+    "watch": "watch 'npm run build' ./src",
+    "watch-custom": "watch 'npm run build' ../../assets/",
+    "start": "npm run clean && npm run watch-custom",
+    "say-hello": "echo 'Hello World'"
+  },
+  "name": "bulma-base",
+  "description": "Basic responsive theme for Hugo static sites using [Bulma](https://bulma.io/) framework.",
+  "version": "1.0.0",
+  "main": "src/",
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/el-uhu/bulma-base.git"
+  },
+  "keywords": [
+    "hugo-theme",
+    "bulma",
+    "teaching"
+  ],
+  "author": "el-uhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/el-uhu/bulma-base/issues"
+  },
+  "homepage": "https://github.com/el-uhu/bulma-base#readme"
+}

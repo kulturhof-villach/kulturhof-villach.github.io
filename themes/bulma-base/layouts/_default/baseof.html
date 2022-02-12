@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body class="">
+        {{- block "header" . -}}{{ end }}
+        {{- block "non-section-main" . -}}{{ end }}
+        <section class="section">
+          <div id="content" class="columns is-centered">
+            {{- block "aside" . }}{{- end }}
+            {{- block "main" . }}{{- end }}
+            {{- block "r-aside" .}}{{- end }}
+          </div>
+        </section>
+        {{- block "pre-footer" . -}}{{ end }}
+        {{- partial "footer.html" . -}}
+        {{- block "custom-js" . -}}{{ end }}
+    </body>
+</html>

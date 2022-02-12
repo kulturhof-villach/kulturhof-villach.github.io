@@ -1,0 +1,50 @@
+<ul id="sb-menu" class="menu-list">
+  {{ range .Site.Pages }}
+  {{ if eq .Params.type "index" }}
+  <li>
+    <a class="anchor" href="{{ .Site.BaseURL}}/{{ .Site.LanguagePrefix}}/#{{ .Title | urlize }}">
+      {{ with .Params.headericon }}
+      <i class="{{ . }}"></i>
+      {{ end }}
+      {{ .Title }}
+    </a>
+  </li>
+  {{ end}}
+  {{ end }}
+  {{ range .Site.Sections }}
+  {{ if ne .Title "Organisers" }}
+  <li>
+    <a  class="anchor" href="{{ .Permalink }}">
+      {{ with .Params.headericon }}
+      <i class="{{ . }}"></i>
+      {{ end }}
+      {{ .Title }}
+    </a>
+  </li>
+  {{ end }}
+  {{ end }}
+
+  {{ if .IsTranslated }}
+  <p class="menu-label"> {{ i18n "translations" }}</p>
+  <ul class="menu-list">
+    {{ range .Translations }}
+    <li>
+      <a  class="anchor" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+    </li>
+    {{ end}}
+  </ul>
+  {{ end }}
+
+
+  {{ $related := .Site.RegularPages.Related . | first 5 }}
+  {{ with $related }}
+  <p class="menu-label">See Also</p>
+  <ul class="menu-list">
+    {{ range . }}
+    <li><a  class="anchor" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</ul>
+<p class="menu-label"> {{ i18n "tags" }}</p>
+{{ partial "tags.html" .}}
